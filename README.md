@@ -214,8 +214,3 @@ Install the
 ],
 ```
 
-## Getting help
-
-➡️ [Join our Discord](https://discord.gg/pipecat)
-
-➡️ [Reach us on X](https://x.com/pipecat_ai)
